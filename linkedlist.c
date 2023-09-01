@@ -54,7 +54,7 @@ void Display()
 }
 int main()
 {
-    printf("\nEnter 1 to Insert at Begining :- ") 
+    printf("\nEnter 1 to Insert at Begining :- ") ;
     printf("\nEnter 2 to Delete at Ending :- ");
 printf("\nEnter 3 to display :- ");
 printf("Enter 4 exit :- ");
